@@ -8,6 +8,8 @@ No installation is required. Simply download the `cat_salut_somatic_tiers.py` fi
 ## Usage
 To use the `CatSalutSomaticTiers` class, you need to provide a TSV (tab-separated values) file containing the list of known tier variants.
 
+There's a tsv file with variant-specific rules file at `test/tiers/Tiers_cancer.v1.tsv`
+
 Here's an example of how to use the class:
 
 ```python
@@ -47,7 +49,8 @@ Each row should represent a known tier variant with the corresponding informatio
 
 ## Tests
 
-```python -m pytest test/ 
+```
+python -m pytest test/ 
 ```
 
 ## Limitations
