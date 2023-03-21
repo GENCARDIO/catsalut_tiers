@@ -1,0 +1,39 @@
+Gene	Exon	Intron	Alteration	Alteration Comments	Consequence	HGVSp	Exclusion Criteria	ESCAT	Treatments	Treatment Lines	Comments	Clinical Trials	Tier	Automatized	Skip	Version	Date
+EGFR	19		Deletion		Inframe_deletion,protein_altering_variant			IA	Osimertinib 	1L estadi IV		pendent d'obrir (STEREO: osi + SBRT)	1	YES	NO	v1	23-06-2022
+EGFR	21		SNV		Missense_variant	L858R		IA	Osimertinib 	1L estadi IV			1	YES	NO	v1	23-06-2022
+EGFR	20		SNV		Missense_variant	T790M		IA	Osimertinib	2L estadi IV			1	YES	NO	v1	23-06-2022
+EGFR			Mutation	Uncommon			Exon 20	IB	Afatinib, osimertinib	1L estadi IV			1	NO	YES	v1	23-06-2022
+ALK			Fusion					IA	Alectinib, brigatinib	1L estadi IV		ALKALINE (2L resistent a ALKi: lorlatinib)	1	YES	NO	v1	23-06-2022
+ALK			Mutation	Mutation of Resistance (MoR)				IA	Alectinib, brigatinib	1L estadi IV		ALKALINE (2L resistent a ALKi: lorlatinib)	1	NO	YES	v1	23-06-2022
+ROS1			Fusion					IB	Crizotinib	1L estadi IV		pendent d'obrir	1	YES	NO	v1	23-06-2022
+EGFR	19		Deletion		Inframe_deletion			IA	Osimertinib (malaltia precoç)	Adjuvància	Aprovació AEMPS en 2022	pendent d'obrir (TARGET: osi 5y)	2	NO	YES	v1	23-06-2022
+EGFR	21		L858R		Missense_variant	L858R							2	NO	YES	v1	23-06-2022
+RET			Fusion					IB	Pralsetinib, Selpercatinib	2L estadi IV	Aprovació AEMPS en 2022	LIBRETTO-431 (avançat: selpercanib)	2	YES	NO	v1	23-06-2022
+RET			Mutation	Mutation of Resistance (MoR)								LIBRETTO-432 (localment avançat + precoç: selpercatinib)	2	NO	YES	v1	23-06-2022
+BRAF	15		SNV		Missense_variant	V600E		IB	Dabrafenib + Trametinib	1L estadi IV	No acord comercialització a Espanya	PHAROS (encorafenib + binimetinib)	2	YES	NO	v1	23-06-2022
+NTRK			Fusion					IC	Larotrectinib	2L+ estadi IV	Aprovació AEMPS en 2022	no assaig	2	YES	NO	v1	23-06-2022
+NTRK			Mutation	Mutation of Resistance (MoR)				IC	Larotrectinib	2L+ estadi IV	Aprovació AEMPS en 2022	no assaig	2	NO	YES	v1	23-06-2022
+KRAS	2		SNV		Missense_variant	G12C		IIB	Sotorasib	2L estadi IV	Aprovació condicionada EMA 	Fase IV sotorasib, KRYSTAL-07 (adagrasib + pembro)	2	YES	NO	v1	23-06-2022
+EGFR	20		Insertion		Inframe_insertion,insertion			IB	Amivantamab	2L estadi IV	Pendent EMA	B-FAST cohort E (CT+ beva + atezo)	3	YES	NO	v1	23-06-2022
+EGFR	20		Insertion		Inframe_insertion,insertion			IB	Mobocertinib	2L estadi IV	Pendent EMA	EXCLAIM2 (mobocertinib vs CT)	3	YES	NO	v1	23-06-2022
+MET	14	13,15	Mutation		synonymous_variant,intron_variant,splice_donor_variant,splice_acceptor_variant,splice_region_variant,splice_donor,splice_donor_5th_base_variant,splice_polypyrimidine_tract_variant,coding_sequence_variant			IB	Tepotinib	2L estadi IV	Pendent EMA	SPARTA,  CINC280A2301 (capmatinib vs CT)	3	YES	NO	v1	23-06-2022
+MET	14	13,15	Mutation		synonymous_variant,intron_variant,splice_donor_variant,splice_acceptor_variant,splice_region_variant,splice_donor,splice_donor_5th_base_variant,splice_polypyrimidine_tract_variant,coding_sequence_variant			IB	Capmatinib	2L estadi IV	Pendent EMA		3	YES	NO	v1	23-06-2022
+ERBB2	20		Mutation					IB	Trastuzumab deruxtecan	2L estadi IV	Pendent EMA	pendent d'obrir (DESTINY-Lung04: T-Dxd vs CT)	3	YES	NO	v1	23-06-2022
+ERBB2	20		Mutation					IB	poziotinib	2L estadi IV	Pendent EMA		3	YES	NO	v1	23-06-2022
+ERBB2			Amplification					IIB	Trastuzumab emtansina	2L estadi IV	No aprovat	no assaig	3	YES	NO	v1	23-06-2022
+MET			Amplification					IIB	Tepotinib 	2L+ estadi IV	assaigs clínics o ús compassiu	SPARTA, INSIGHT2 (EGFR mutat)	3	YES	NO	v1	23-06-2022
+MET			Fusion					IIB	Tepotinib 	2L+ estadi IV	assaigs clínics o ús compassiu	SPARTA, INSIGHT2 (EGFR mutat)	3	YES	NO	v1	23-06-2022
+FGFR1			Fusion					IIIA	Erdafinib	2L+ estadi IV	assaigs clínics o ús compassiu	pendent d'obrir (FIGHT-210: pemigatinib)	3	YES	NO	v1	23-06-2022
+FGFR1			Mutation					IIIA	Erdafinib	2L+ estadi IV	assaigs clínics o ús compassiu	pendent d'obrir (FIGHT-210: pemigatinib)	3	YES	NO	v1	23-06-2022
+FGFR2			Fusion					IIIA	Erdafinib	2L+ estadi IV	assaigs clínics o ús compassiu	pendent d'obrir (FIGHT-210: pemigatinib)	3	YES	NO	v1	23-06-2022
+FGFR2			Mutation					IIIA	Erdafinib	2L+ estadi IV	assaigs clínics o ús compassiu	pendent d'obrir (FIGHT-210: pemigatinib)	3	YES	NO	v1	23-06-2022
+FGFR3			Fusion					IIIA	Erdafinib	2L+ estadi IV	assaigs clínics o ús compassiu	pendent d'obrir (FIGHT-210: pemigatinib)	3	YES	NO	v1	23-06-2022
+FGFR3			Mutation					IIIA	Erdafinib	2L+ estadi IV	assaigs clínics o ús compassiu	pendent d'obrir (FIGHT-210: pemigatinib)	3	YES	NO	v1	23-06-2022
+KRAS	2		SNV		Missense_variant	G12	G12C	IIIA	Diversos composts	2L+ estadi IV	assaigs clínics	no assaig 	3	YES	NO	v1	23-06-2022
+KRAS	2		SNV		Missense_variant	G13		IIIA	Diversos composts	2L+ estadi IV	assaigs clínics	no assaig 	3	YES	NO	v1	23-06-2022
+HRAS	3		SNV		Missense_variant	Q61		IIIA	Diversos composts	2L+ estadi IV	assaigs clínics	THOMAS (tipirfanib)	3	YES	NO	v1	23-06-2022
+HRAS	2		SNV		Missense_variant	G12		IIIA	Diversos composts	2L+ estadi IV	assaigs clínics	THOMAS (tipirfanib)	3	YES	NO	v1	23-06-2022
+HRAS	2		SNV		Missense_variant	G13		IIIA	Diversos composts	2L+ estadi IV	assaigs clínics	THOMAS (tipirfanib)	3	YES	NO	v1	23-06-2022
+HRAS	9		Mutation					IIIA	Diversos composts	2L+ estadi IV	assaigs clínics	no assaig	3	YES	NO	v1	23-06-2022
+HRAS	20		Mutation					IIIA	Diversos composts	2L+ estadi IV	assaigs clínics	no assaig	3	YES	NO	v1	23-06-2022
+HRAS			Fusion					IIIA	Zenocutuzumab	2L+ estadi IV	assaigs clínics	no assaig	3	YES	NO	v1	23-06-2022
